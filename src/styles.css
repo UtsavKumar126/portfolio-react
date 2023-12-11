@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: black;
+    text-align: center;
+    color:white
+}
+.navbar a{
+    text-decoration: none;
+    color: orangered;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.about{
+    margin-top: 20px;
+    text-align: center;
+}
+.about img{
+    height: 200px;
+    width:300px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+.about p{
+    text-align: left;
+    margin-top: 30px;
+}
+.section{
+    text-align: center;
+    margin-top: 30px;
+}
+h1{
+    border-bottom:2px solid black;
+
+}
+.section p{
+    text-align: left;
+    margin-top: 20px;
+}
+hr{
+    margin-top: 10px;
+    color: black;
+}
+
+.details{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.details a{
+    text-decoration: none;
+    color:orangered;
+    cursor: pointer;
+    margin-left: 20px;
+}
+.details hr{
+    color: white;
+    border: 1px solid white;
+}
